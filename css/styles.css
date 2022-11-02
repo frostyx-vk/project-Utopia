@@ -1,0 +1,114 @@
+
+:root {
+    --header-h: 80px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,600&family=Manrope:wght@300;400;500;600;700&family=Nanum+Gothic:wght@700;800&display=swap');
+
+.header {
+    width: 100%;
+    height: var(--header-h);
+    background-color: white;
+    position: fixed;
+    z-index: 99999;
+}
+
+.container {
+    width: 1198px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.header-line {
+    margin-top: 8px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    height: var(--header-h);
+    justify-content: space-between;
+}
+
+.header-logo {
+}  
+
+.nav {
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
+
+.nav-item {
+    font-family: 'Manrope', sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    margin-right: 50px;
+    text-decoration: none;
+    color:black;
+} 
+
+.header-button {
+}
+
+.mainpage {
+    padding-top: var(--header-h);
+}
+.container {
+}
+.blockfirst {
+    padding: 134px 0 124px 0;
+    z-index: 1;
+    font-family: 'Manrope', sans-serif;
+}
+.blockfirst__text1 {
+    font-size: 25px;
+    position: relative;
+    z-index: 2;
+}
+.blockfirst__text2 {
+    margin-top: 15px;
+    font-size: 55px;
+    position: relative;
+    z-index: 2;
+}
+.blockfirst__text3 {
+    margin-top: 25px;
+    font-size: 20px;
+    position: relative;
+    z-index: 2;
+}
+
+.blockfirst__button-block {
+    margin-top: 35px;
+    text-align: left;
+}
+
+.blockfirst__button {
+    width: 223px;
+    height: 50px;
+}
+
+.button_green {
+    background: linear-gradient(98.8deg, #97BC5D 0.78%, #C0D997 98.41%);
+    box-shadow: 0px 10px 30px rgba(135, 182, 112, 0.3);
+}
+
+.button {
+    border-radius: 9px;
+    border: none;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.blockfirst__circle {
+    position: absolute;
+    top: -50px;
+    right: 0px;
+    z-index: 1;
+}   
+
+
