@@ -327,11 +327,15 @@
     margin-top: 72px;
     position: relative;
     box-sizing: border-box;
+    display: flex;
 }
 .blockfourth1_left {
     background-color: #F7F8F3;
     border-radius: 35px;
     padding: 104px 50px;
+    width: 1000px;
+    height: 480px;
+    box-sizing: border-box;
 }
 .blockfourth1_text1 {
     font-weight: 500;
@@ -339,13 +343,11 @@
 }
 .blockfourth1_text2 {
     padding-top: 25px;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 20px;
 }
 .blockfourth1_button {
     padding-top: 35px;
-    width: 306px;
-    height: 50px;
 }
 
 .button3 {
@@ -354,9 +356,13 @@
     color: white;
     font-weight: 600;
     font-size: 16px;
+    width: 306px;
+    height: 50px;
 }
 
 .blockfourth1_right {
+    position: absolute;
+    margin-left: 544px;
 }
 .blockfourth2 {
 }
