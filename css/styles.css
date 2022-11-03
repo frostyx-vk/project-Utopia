@@ -62,6 +62,7 @@
     padding: 134px 0 124px 0;
     z-index: 1;
     font-family: 'Manrope', sans-serif;
+    position: relative;
 }
 .blockfirst__text1 {
     font-size: 25px;
@@ -106,9 +107,144 @@
 
 .blockfirst__circle {
     position: absolute;
-    top: -50px;
-    right: 0px;
+    top: -129px;
+    left: 129px;
     z-index: 1;
 }   
+
+.blocksecond {
+    margin-top: 184px;
+    font-family: 'Manrope', sans-serif;
+    position: relative;
+    z-index: 1;
+}
+
+.blocksecond__backgrond1 {
+
+}
+
+.blocksecond__img {
+    width: 135%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.blocksecond__img1 {
+    position: absolute;
+    left: -20%;
+}
+
+.blocksecond__img2 {
+    position: absolute;
+    top: 20%;
+    right: -50%;
+
+}
+
+.blocksecond__backgrond2 {
+}
+.blocksecond__backgrond3 {
+}
+.blocksecond__text {
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+}
+.blocksecond__line1 {
+    margin-top: 88px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.blocksecond__image {
+    height: 172px;
+}
+
+.blocksecond__linetext1 {
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+}
+
+.blocksecond__linetext2 {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: center;
+}
+.blocksecond__icon1 {
+}
+
+.blocksecond__icon2 {
+}
+
+.blocksecond__icon3 {
+}
+
+.blocksecond__line2 {
+    margin-top: 68px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+}
+.blocksecond__icon4 {
+}
+.blocksecond__icon5 {
+}
+.blockfirst__button-block {
+}
+
+.button_green {
+}
+
+.button2 {
+    border-radius: 9px;
+    border: none;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.blocksecond__button {
+    width: 306px;
+    height: 50px;
+    display: block;
+    margin: 100px auto 0 auto;
+}
+
+.blockthird {
+    position: relative;
+}
+.blockthird__backimg {
+    position: absolute;
+    left: -30px;
+}
+.blockthird__text {
+    margin-top: 140px;
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+}
+.blockthird__line {
+}
+.blockthird__block1 {
+}
+.blockthird__img {
+}
+.blockthird__text1 {
+}
+.blockthird__text2 {
+}
+.blockthird__block2 {
+}
+.blockthird__block3 {
+}
+
 
 
