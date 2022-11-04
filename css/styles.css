@@ -365,10 +365,21 @@
     margin-left: 544px;
 }
 .blockfourth2 {
+    margin-top: 80px;
+    position: relative;
+    display: flex;
 }
 .blockfourth2_left {
 }
 .blockfourth2_right {
+    background-color: #F7F8F3;
+    border-radius: 35px;
+    /* padding: 104px 50px; */
+    width: 834px;
+    height: 480px;
+    box-sizing: border-box;
+    position: absolute;
+    margin-left: 544px;
 }
 .blockfourth2_text1 {
 }
