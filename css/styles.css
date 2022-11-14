@@ -374,7 +374,7 @@
 .blockfourth2_right {
     background-color: #F7F8F3;
     border-radius: 35px;
-    /* padding: 104px 50px; */
+    padding: 104px 50px;
     width: 834px;
     height: 480px;
     box-sizing: border-box;
@@ -382,8 +382,13 @@
     margin-left: 544px;
 }
 .blockfourth2_text1 {
+    font-weight: 500;
+    font-size: 30px;
 }
-.blockfourth2_button {
+
+.blockfourth2_text2 {
+    padding-top: 25px;
+    font-weight: 300;
+    font-size: 20px;
 }
-.blockfourth__backimage {
-}
+
