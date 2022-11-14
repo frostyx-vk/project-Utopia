@@ -259,6 +259,7 @@
     color: white;
     font-weight: 600;
 }
+
 .blockthird__block3 {
     position: absolute;
     width: 490px;
@@ -277,6 +278,7 @@
     background: linear-gradient(98.8deg, #97BC5D 0.78%, #C0D997 98.41%);
     box-shadow: 0px 10px 30px rgba(135, 182, 112, 0.3);
 }
+
 .blockthird__img {
     height: 96px;
     text-align: center;
@@ -290,6 +292,7 @@
     font-size: 20px;
     font-weight: 500;
 }
+
 .blockthird__text2 {
     margin-top: 10px;
     text-align: center;
@@ -317,18 +320,21 @@
     position: relative;
     font-family: 'Manrope', sans-serif;
 }
+
 .blockfourth_maintext {
     margin-top: 140px;
     font-weight: 500;
     font-size: 40px;
     text-align: center;
 }
+
 .blockfourth1 {
     margin-top: 72px;
     position: relative;
     box-sizing: border-box;
     display: flex;
 }
+
 .blockfourth1_left {
     background-color: #F7F8F3;
     border-radius: 35px;
@@ -337,15 +343,18 @@
     height: 480px;
     box-sizing: border-box;
 }
+
 .blockfourth1_text1 {
     font-weight: 500;
     font-size: 30px;
 }
+
 .blockfourth1_text2 {
     padding-top: 25px;
     font-weight: 300;
     font-size: 20px;
 }
+
 .blockfourth1_button {
     padding-top: 35px;
 }
@@ -364,6 +373,7 @@
     position: absolute;
     margin-left: 544px;
 }
+
 .blockfourth2 {
     margin-top: 80px;
     position: relative;
@@ -380,6 +390,7 @@
     position: absolute;
     margin-left: 544px;
 }
+
 .blockfourth2_text1 {
     font-weight: 500;
     font-size: 30px;
@@ -392,9 +403,9 @@
 }
 
 .blockfourth__img {
-position: absolute;
-width: 659px;
-height: 659px;
-top: 26%;
-left: -36%;
+    position: absolute;
+    width: 659px;
+    height: 659px;
+    top: 26%;
+    left: -36%;
 }
