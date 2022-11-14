@@ -369,8 +369,7 @@
     position: relative;
     display: flex;
 }
-.blockfourth2_left {
-}
+
 .blockfourth2_right {
     background-color: #F7F8F3;
     border-radius: 35px;
@@ -392,3 +391,10 @@
     font-size: 20px;
 }
 
+.blockfourth__img {
+position: absolute;
+width: 659px;
+height: 659px;
+top: 26%;
+left: -36%;
+}
