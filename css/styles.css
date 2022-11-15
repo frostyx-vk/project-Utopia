@@ -697,3 +697,15 @@
     right: -144px;
     z-index: -1;
 }
+
+.blockten {
+    padding-top: 70px;
+}
+.blockten__border {
+    width: 1198px;
+    height: 0px;
+    border: 1px solid #D9D9D9;
+}
+.blockten__line {
+    display: flex;
+}
