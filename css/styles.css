@@ -17,10 +17,14 @@
     z-index: 99999;
 }
 
+.mainpage {
+    overflow-x: hidden;
+}
+
 .container {
     width: 1198px;
     margin: 0 auto;
-    /* background-color: white; */
+
 }
 
 .header-line {
@@ -136,11 +140,19 @@
 }
 
 .blocksecond__img2 {
+    /* background-image: url("../img/blocksecond__backgrond3.svg"); */
+    position: absolute;
+    top: 200px;
+    right: -580px;
+    z-index: 2;
+}
+
+/* .blocksecond__img2 {
     position: absolute;
     top: 20%;
     right: -50%;
 
-}
+} */
 
 .blocksecond__text {
     font-weight: 500;
