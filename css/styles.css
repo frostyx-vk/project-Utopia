@@ -656,3 +656,44 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.blocknine {
+    margin-top: 140px;
+    position: relative;
+    font-family: 'Manrope', sans-serif;
+    background: linear-gradient(98.8deg, #97BC5D 0.78%, #C0D997 98.41%);
+    border-radius: 35px;
+}
+
+.blocknine__maintext {
+    padding-top: 88px;
+    font-weight: 600;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+.blocknine__text {
+    padding-top: 25px;
+    font-weight: 300;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.blocknine__button {
+    padding-top: 35px;
+    padding-bottom: 90px;
+    text-align: center;
+
+}
+.blocknine__backimage1 {
+    position: absolute;
+    top: -46px;
+    left: -70px;
+    z-index: -1;
+}
+.blocknine__backimage2 {
+    position: absolute;
+    top: -50px;
+    right: -144px;
+    z-index: -1;
+}
