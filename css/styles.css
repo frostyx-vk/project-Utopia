@@ -416,6 +416,7 @@
     margin-top: 146px;
     justify-content: space-between;
 }
+
 .blockfive__line1 {
     z-index: 1;
 }
@@ -435,11 +436,13 @@
     background: linear-gradient(98.8deg, #97BC5D 0.78%, #C0D997 98.41%);
     box-shadow: 0px 10px 30px rgba(135, 182, 112, 0.3);
 }
+
 .blockfive__numbers {
     padding-top: 50px;
     font-size: 40px;
     font-weight: 600;
 }
+
 .blockfive__text {
     padding-top: 25px;
     font-size: 20px;
@@ -481,9 +484,11 @@
     position: relative;
     font-family: 'Manrope', sans-serif;
 }
+
 .blockfourth__img {
     z-index: -1;
 }
+
 .blocksix1 {
     display: flex;
 }
@@ -497,6 +502,7 @@
     position: absolute;
     margin-left: 544px;
 }
+
 .blocksix1__text1 {
     padding-left: 70px;
     color: white;
@@ -504,6 +510,7 @@
     font-size: 30px;
     font-weight: 600;
 }
+
 .blocksix1__text2 {
     padding-left: 70px;
     color: white;
@@ -512,6 +519,7 @@
     font-size: 20px;
     font-weight: 400;
 }
+
 .blocksix1__button {
     padding-left: 70px;
     padding-top: 35px;
@@ -522,6 +530,7 @@
     display: flex;
     position: relative;
 }
+
 .blocksix2__left {
     background: linear-gradient(98.8deg, #97BC5D 0.78%, #C0D997 98.41%);
     border-radius: 35px;
@@ -529,6 +538,7 @@
     height: 480px;
     box-sizing: border-box;
 }
+
 .blocksix2__text1 {
     padding-left: 70px;
     color: white;
@@ -536,6 +546,7 @@
     font-size: 30px;
     font-weight: 600;
 }
+
 .blocksix2__text2 {
     padding-left: 70px;
     color: white;
@@ -544,10 +555,12 @@
     font-size: 20px;
     font-weight: 400;
 }
+
 .blocksix2__button {
     padding-left: 70px;
     padding-top: 35px;
 }
+
 .button5 {
     background: #FFFFFF;
     box-shadow: 0px 10px 30px rgba(135, 182, 112, 0.3);
@@ -576,9 +589,62 @@
     font-size: 40px;
     text-align: center;
 }
+
 .blockseven_line {
     margin-top: 70px;
     display: flex;
     justify-content: space-between;
 }
 
+.blockeight {
+    margin-top: 140px;
+    position: relative;
+    font-family: 'Manrope', sans-serif;
+}
+
+.blockeight1__line {
+    display: flex;
+    justify-content: space-between;
+}
+
+.blockeight1__linetext {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.blockeight1__text {
+    padding-top: 25px;
+    font-size: 20px;
+    font-weight: 200;
+    padding-bottom: 12px;
+}
+
+.blockeight1__border {
+    width: 1198px;
+    height: 0px;
+    border: 1px solid #D9D9D9;
+}
+
+.blockeight2__line {
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 40px;
+}
+
+.blockeight2__linetext {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.blockeight3__line {
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 40px;
+}
+
+.blockeight3__linetext {
+    font-size: 30px;
+    font-weight: 500;
+}
