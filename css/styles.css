@@ -564,3 +564,21 @@
     position: absolute;
     left: 544px;
 }
+
+.blockseven {
+    margin-top: 142px;
+    position: relative;
+    font-family: 'Manrope', sans-serif;
+}
+
+.blockseven__text {
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+}
+.blockseven_line {
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
